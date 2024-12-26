@@ -42,6 +42,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.30.0",
+    "@opentelemetry/sdk-node": "^0.57.0",
     "electron-squirrel-startup": "^1.0.1"
   }
 }

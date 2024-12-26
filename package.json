@@ -42,6 +42,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "applicationinsights": "^3.4.0",
     "electron-squirrel-startup": "^1.0.1"
   }
 }
